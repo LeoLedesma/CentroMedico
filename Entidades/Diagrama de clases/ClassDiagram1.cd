@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.CentroMedico">
+    <Position X="1.5" Y="0.5" Width="4.75" />
+    <NestedTypes>
+      <Enum Name="Entidades.CentroMedico.EDuracionTurno" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\CentroMedico.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>kAQAGQAAAJAACQKCwIEAoMJ4ASIAQAQAUEEABEwEBiY=</HashCode>
+      <FileName>Models\CentroMedico.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Persona">
+    <Position X="6.5" Y="4" Width="7" />
+    <NestedTypes>
+      <Enum Name="Entidades.Persona.eGenero" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\Persona.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Entidades.Persona.eNacionalidad" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\Persona.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQAADCEAAAQgCIQAAIiAgACAAIAAkAAAiI=</HashCode>
+      <FileName>Models\Persona.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Profesional">
+    <Position X="8" Y="6" Width="8.25" />
+    <TypeIdentifier>
+      <HashCode>gAAQEAAAEAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Models\Profesional.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Paciente">
+    <Position X="8.25" Y="9.5" Width="8" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAIAAAAIAAAACAABAAAAAAAAAAIgCAAAIABA=</HashCode>
+      <FileName>Models\Paciente.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.GestorSQL">
+    <Position X="8.25" Y="16.25" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>oCSCARAGQBAaCAIAClSJroArCAMAACAABUIYAgACAQA=</HashCode>
+      <FileName>GestorSQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,84 @@
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Clases\Clase11-20\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Entidades\obj\Debug\net5.0\refint\Entidades.dll

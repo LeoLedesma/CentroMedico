@@ -1,0 +1,195 @@
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.AssemblyReference.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.Form1.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmCentroSalud.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSecundario.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.Properties.Resources.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.GenerateResource.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.cs
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.exe
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.deps.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.dev.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CopyComplete
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\refint\Formularios.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.genruntimeconfig.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmBuscarPersona.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevaPersona.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.exe
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.dev.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Formularios.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmBuscar.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmCentroSalud.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmConfiguracion.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevaPersona.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevoTurno.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSecundario.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSeleccionarHorariosAtencion.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.FrmVerTurnos.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.Properties.Resources.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\refint\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\Formularios.genruntimeconfig.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP3\Leonel.Ledesma.2E.TP3\Formularios\obj\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\Formularios.exe
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\Formularios.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.dev.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\Formularios.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.FrmBuscar.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.FrmCentroSalud.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.FrmConfiguracion.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevaPersona.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevoTurno.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSecundario.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSeleccionarHorariosAtencion.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.FrmVerTurnos.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.Properties.Resources.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\refint\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\Formularios.genruntimeconfig.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\obj\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TPFinal\Leonel.Ledesma.2E.TPFinal\Formularios\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.exe
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.dev.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmBuscar.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmCentroSalud.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmConfiguracion.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevaPersona.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevoTurno.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSecundario.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSeleccionarHorariosAtencion.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmVerTurnos.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.Properties.Resources.resources
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\refint\Formularios.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.genruntimeconfig.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.exe
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.deps.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.dev.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.AssemblyReference.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmBuscar.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmCentroSalud.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmConfiguracion.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevaPersona.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevoTurno.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSecundario.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSeleccionarHorariosAtencion.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmVerTurnos.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.Properties.Resources.resources
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.GenerateResource.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.cs
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CopyComplete
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\refint\Formularios.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.genruntimeconfig.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.exe
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.deps.json
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.json
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.dev.json
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmBuscar.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmCentroSalud.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmConfiguracion.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevaPersona.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmNuevoTurno.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSecundario.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSeleccionarHorariosAtencion.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmVerTurnos.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.Properties.Resources.resources
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CopyComplete
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\Formularios.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\TPS\tps_laboratorio_ii\TP4\Leonel.Ledesma.2E.TP4\Formularios\obj\Debug\net5.0-windows\refint\Formularios.dll
